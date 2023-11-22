@@ -37,7 +37,7 @@ When using the (default) MME device, you may find a virtual microphone called _S
 ## Soundflower&#x20;
 
 {% hint style="warning" %}
-**Caution:** Soundflower is not compatible with Apple Silicon-based machines ("M1", "M2", ...)
+**Caution:** Soundflower is not compatible with Apple Silicon-based machines ("M1", "M2", ...). For Apple Silicon-based machines use BlackHole, you can download it from here: [https://existential.audio/blackhole/#blackhole_logo]. 
 {% endhint %}
 
 1. Download Soundflower from [https://github.com/mattingalls/Soundflower/releases/](https://github.com/mattingalls/Soundflower/releases/) and follow the instructions provided there to install it.
